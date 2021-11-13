@@ -14,7 +14,7 @@ export const AppHeader = () => {
     <Container className="appHeader">
       <Link to="/">
       <Menu.Item as='a' header className="ayuslogo">
-        <Image size='tiny' src='/images/Logo.png' style={{ marginRight: '1.5em' }} />
+        <Image size='tiny' src='/images/logo.png' style={{ marginRight: '1.5em' }} />
         {/* <Header as='h2' className="mainHeading">Book your Appoinment</Header> */}
       </Menu.Item>
       </Link>
