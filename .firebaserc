@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ayusayurdea"
+  },
+  "targets": {
+    "ayusayurdea": {
+      "hosting": {
+        "admin": [
+          "admin-ayus"
+        ]
+      }
+    }
+  }
+}
